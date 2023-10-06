@@ -2,6 +2,18 @@
   <img src="https://media.tenor.com/PX1doq1mxnYAAAAC/girl-hacker.gif" width="200"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/elilta-abrham-87b79228b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:eliltatabrham@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://eliltaa.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
+</div>
+
 # Hi there 👋
  I'm Elilta, a software engineer with a passion for problem-solving and bringing ideas to life through code. My journey in the tech world has been an exciting adventure, and I'm constantly seeking new challenges and opportunities for growth. In my latest project, I collaborated with a team to create "Budget Buddy," a MERN stack application designed to help users track their finances. I'm thrilled to share this project with you, and you can find right below in my repositories. Additionally, I recently worked on an "Instagram clone" project that I'm particularly proud of. If you're interested, feel free to check it out below in my repositories! I'm open to work and eager to connect with potential employers. Please don't hesitate to reach out if you have opportunities or projects where I can contribute.
 
