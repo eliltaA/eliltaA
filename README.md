@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fshristi26281534%2Fweb-developer-vs-software-developer-2en&psig=AOvVaw3Cn6OG3v_johxtKtp2vXOV&ust=1696639881950000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjs0p2a4IEDFQAAAAAdAAAAABAF" width="100"/>
+</div>
 ### Hi there 👋
 
 <!--
