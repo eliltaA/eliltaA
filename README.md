@@ -1,7 +1,9 @@
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fshristi26281534%2Fweb-developer-vs-software-developer-2en&psig=AOvVaw3Cn6OG3v_johxtKtp2vXOV&ust=1696639881950000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjs0p2a4IEDFQAAAAAdAAAAABAF" width="100"/>
+  <img src="https://media.tenor.com/PX1doq1mxnYAAAAC/girl-hacker.gif" width="200"/>
 </div>
-### Hi there 👋
+
+# Hi there 👋
+ I'm Elilta, a software engineer with a passion for problem-solving and bringing ideas to life through code. My journey in the tech world has been an exciting adventure, and I'm constantly seeking new challenges and opportunities for growth. In my latest project, I collaborated with a team to create "Budget Buddy," a MERN stack application designed to help users track their finances. I'm thrilled to share this project with you, and you can find right below in my repositories. Additionally, I recently worked on an "Instagram clone" project that I'm particularly proud of. If you're interested, feel free to check it out below in my repositories! I'm open to work and eager to connect with potential employers. Please don't hesitate to reach out if you have opportunities or projects where I can contribute.
 
 <!--
 **eliltaA/eliltaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
